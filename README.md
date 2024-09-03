@@ -32,7 +32,7 @@
 ![Lubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yudin101&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yudin101&theme=transparent&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudin101&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
