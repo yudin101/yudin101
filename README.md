@@ -2,7 +2,7 @@
 ---
 
 # 💫 Hi! I'm yudin
-🔭 I’m currently working on [ToTimer](https://github.com/Yudin101/ToTimer)<br/>
+🔭 I’m currently not doing anything<br/>
 👯 I’m looking to collaborate on any interesting project<br/>
 🌱 I’m currently learning Django<br/>
 💬 Ask me about my life maybe?<br/>
