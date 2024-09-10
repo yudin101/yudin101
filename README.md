@@ -2,14 +2,14 @@
 ---
 
 # 💫 Hi! I'm yudin
-🔭 I’m currently not doing anything<br/>
+🔭 I’m currently not working on ay project<br/>
 👯 I’m looking to collaborate on any interesting project<br/>
 🌱 I’m currently learning Django<br/>
 💬 Ask me about my life maybe?<br/>
 ⚡ Fun fact, *Buddha* in **Laughing Buddha** is not Buddha
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/781480676049682452)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/781480676049682452)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yudin101)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/yudin101)
 
