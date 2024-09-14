@@ -2,7 +2,7 @@
 ---
 
 # 💫 Hi! I'm yudin
-🔭 I’m currently not working on ay project<br/>
+🔭 I’m currently working on my portfolio<br/>
 👯 I’m looking to collaborate on any interesting project<br/>
 🌱 I’m currently learning Django<br/>
 💬 Ask me about my life maybe?<br/>
