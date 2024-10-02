@@ -2,11 +2,6 @@
 ---
 
 # 💫 Hi! I'm yudin
-🔭 I’m currently working on my portfolio<br/>
-👯 I’m looking to collaborate on any interesting project<br/>
-🌱 I’m currently learning Django<br/>
-💬 Ask me about my life maybe?<br/>
-⚡ Fun fact, *Buddha* in **Laughing Buddha** is not Buddha
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/781480676049682452)
