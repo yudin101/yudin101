@@ -1,8 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=Yudin101&icon=5&color=0)](https://visitcount.itsvg.in)
 ---
 
-# 💫 Hi! I'm yudin
-A web developer working with Python and Django. 
+# 💫 Who am I?
+Tech enthusiast with experience in Linux, web development, and programming.
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/781480676049682452)
