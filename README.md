@@ -1,6 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Yudin101&icon=5&color=0)](https://visitcount.itsvg.in)
----
-
 # 💫 Who am I?
 Tech enthusiast with experience in Linux, web development, and programming.
 
@@ -34,8 +31,6 @@ Tech enthusiast with experience in Linux, web development, and programming.
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
 
-# 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yudin101&theme=transparent&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudin101&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
